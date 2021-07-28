@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @matrix007-creator
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning preprocessing of data
-- 💞️ I’m looking to collaborate on data science realted projects
+- 💞️ I’m looking to collaborate on data science related projects
 
 
 <!---
